@@ -10,17 +10,17 @@ I used more than 13,000 images of the road to train the self driving car. These 
 
 # Screenshots :
 
-![screenshot-1](https://user-images.githubusercontent.com/34116562/45925117-26c9e800-bf2d-11e8-8fb0-63fb18a1e3c2.png)
-![screenshot from 2018-09-09 11-52-26](https://user-images.githubusercontent.com/34116562/45925120-45c87a00-bf2d-11e8-82e6-21b7d53f14ae.png)
-![screenshot from 2018-09-09 11-52-40](https://user-images.githubusercontent.com/34116562/45925121-48c36a80-bf2d-11e8-9940-40dcfb8dd025.png)
-![screenshot from 2018-09-09 11-52-45](https://user-images.githubusercontent.com/34116562/45925123-4d881e80-bf2d-11e8-9ddc-9a29324ea74f.png)
-![screenshot from 2018-09-09 11-53-08](https://user-images.githubusercontent.com/34116562/45925125-537dff80-bf2d-11e8-910e-69c4a76d2328.png)
-![screenshot from 2018-09-09 11-53-12](https://user-images.githubusercontent.com/34116562/45925126-5ed12b00-bf2d-11e8-8fc8-c1ba1569bcb5.png)
-![screenshot from 2018-09-09 11-53-27](https://user-images.githubusercontent.com/34116562/45925127-6264b200-bf2d-11e8-9c7e-0980f9a56ed0.png)
-![screenshot from 2018-09-09 11-53-40](https://user-images.githubusercontent.com/34116562/45925128-655fa280-bf2d-11e8-862a-0e03823b990a.png)
-![screenshot from 2018-09-09 11-53-55](https://user-images.githubusercontent.com/34116562/45925130-698bc000-bf2d-11e8-8329-6dfaa6c39eb5.png)
-![screenshot from 2018-09-09 11-54-09](https://user-images.githubusercontent.com/34116562/45925137-6c86b080-bf2d-11e8-9d19-7bc7587ac487.png)
-![screenshot from 2018-09-09 11-54-18](https://user-images.githubusercontent.com/34116562/45925140-701a3780-bf2d-11e8-8e0d-ff3514da1c1e.png)
+![Capture](https://user-images.githubusercontent.com/42375851/84621655-c21ca100-aef8-11ea-9d48-f52fc1dc77ff.PNG)
+![2](https://user-images.githubusercontent.com/42375851/84621861-3fe0ac80-aef9-11ea-9894-c5ade842cafb.PNG)
+![3](https://user-images.githubusercontent.com/42375851/84621946-77e7ef80-aef9-11ea-9f2b-a5ba0c2c1066.PNG)
+![4](https://user-images.githubusercontent.com/42375851/84622039-bb425e00-aef9-11ea-9a13-d24173b14889.PNG)
+![5](https://user-images.githubusercontent.com/42375851/84622191-05c3da80-aefa-11ea-9a42-f6c7416f6274.PNG)
+![6](https://user-images.githubusercontent.com/42375851/84622195-08becb00-aefa-11ea-8b9c-1cea76db91ea.PNG)
+![7](https://user-images.githubusercontent.com/42375851/84622197-09eff800-aefa-11ea-89c2-db61534326cb.PNG)
+![8](https://user-images.githubusercontent.com/42375851/84622199-0bb9bb80-aefa-11ea-8a4b-4936c603eae4.PNG)
+![9](https://user-images.githubusercontent.com/42375851/84622203-0e1c1580-aefa-11ea-8eae-5beb52901f56.PNG)
+![10](https://user-images.githubusercontent.com/42375851/84622221-14aa8d00-aefa-11ea-99f3-9660df07169b.PNG)
+
 
 
 # Result : 
