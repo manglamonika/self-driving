@@ -9,6 +9,7 @@ import socketio
 import eventlet
 import eventlet.wsgi
 from PIL import Image
+
 from flask import Flask
 from io import BytesIO
 
